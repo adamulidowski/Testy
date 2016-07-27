@@ -17,6 +17,10 @@ public class App
         Test test=new Test();
         test.setA(5);
         System.out.println(test.getA());
-        
+        Test2 test2=new Test2();
+        test2.setA(6);
+        test2.setB(7);
+        System.out.println(test2.getA());
+        System.out.println(test2.getB());
     }
 }
