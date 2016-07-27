@@ -13,7 +13,6 @@ public class App
         System.out.println( "Dodany branch");
         System.out.println( "Zlaczenie branch");
         
-    }System.out.println( "Zlaczenie branch");
         
     }
 }
