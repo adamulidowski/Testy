@@ -11,7 +11,7 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println( "Zmiany");
         System.out.println( "Dodany branch");
-        System.out.println( "Zlaczenie branch");
+        System.out.println( "Branch 'nowa'");
         
     }
 }
