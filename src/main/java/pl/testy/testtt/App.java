@@ -13,8 +13,12 @@ public class App
         System.out.println( "Dodany branchzmiaasda");
         System.out.println( "Branch 'nowa'");
         System.out.println( "Branch 'nowa'");
+
         System.out.println( "Branch 'nowa2'");
         System.out.println( "Proba scalenia wszyskich galezi");
+
+
+
         Test test=new Test();
         test.setA(5);
         System.out.println(test.getA());
