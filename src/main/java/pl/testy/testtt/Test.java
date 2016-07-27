@@ -10,6 +10,7 @@ public class Test {
 
 	public void setA(int a) {
 		this.a = a;
+		
 	}
 	
 }
