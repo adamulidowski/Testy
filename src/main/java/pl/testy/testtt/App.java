@@ -10,6 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "Zmiany");
-        System.out.println( "Proba zlaczenia");
+        System.out.println( "Proba zlaczeniaa");
     }
 }
