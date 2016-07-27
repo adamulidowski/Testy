@@ -14,6 +14,9 @@ public class App
         System.out.println( "Branch 'nowa'");
         System.out.println( "Branch 'nowa2'");
         
+        Test test=new Test();
+        test.setA(5);
+        System.out.println(test.getA());
         
     }
 }
