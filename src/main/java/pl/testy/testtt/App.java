@@ -12,7 +12,8 @@ public class App
         System.out.println( "Zmiany");
         System.out.println( "Dodany branch");
         System.out.println( "Branch 'nowa'");
-        
+        System.out.println( "Branch 'master'");
+
         
     }
 }
