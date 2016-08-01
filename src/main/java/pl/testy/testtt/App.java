@@ -15,11 +15,9 @@ public class App
         System.out.println( "Branch 'nowa'");
 
         System.out.println( "Branch 'nowa2'");
-<<<<<<< HEAD
-        System.out.println( "Branch 'asdasasdasdasdsad'");
-=======
+
         System.out.println( "Branch 'nowa3'");
->>>>>>> refs/heads/nowa3
+
         System.out.println( "Proba scalenia wszyskich galezi");
 
 
