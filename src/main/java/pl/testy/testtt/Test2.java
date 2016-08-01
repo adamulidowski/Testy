@@ -3,6 +3,7 @@ package pl.testy.testtt;
 public class Test2 extends Test {
 
 	int b;
+	int a;
 
 	public int getB() {
 		return b;
