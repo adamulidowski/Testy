@@ -15,6 +15,7 @@ public class App
         System.out.println( "Branch 'nowa'");
 
         System.out.println( "Branch 'nowa2'");
+        System.out.println( "Branch 'asdasasdasdasdsad'");
         System.out.println( "Proba scalenia wszyskich galezi");
 
 
